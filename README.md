@@ -8,6 +8,8 @@ A simple dynamic website used to transfer money between multiple users. It conta
   * PHP
 * Database
   * MySQL 
+* Server
+  * XAMPP
 
 Website Flow: Home Page > View all Users > Select one user and transfer money > Select a user to transfer to > Transaction History
 
